@@ -9,4 +9,8 @@ public class SomeClass {
     public String hello() {
         return "hello";
     }
+
+    public void hi() {
+        System.out.println("Hi");
+    }
 }
